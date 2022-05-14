@@ -1,4 +1,3 @@
-#  k8s for calculator app / image
 # K8s for calculator app / image
 apiVersion: apps/v1
 kind: Deployment
