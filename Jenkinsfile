@@ -1,4 +1,5 @@
 #jenkins pipeline script for project
+
 pipeline {
     environment { 
         registry = "hanumathub/devops-project" 
